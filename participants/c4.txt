@@ -1,2 +1,7 @@
 we are other.
+<<<
+<<<< HEAD
 hyra
+=======
+try again.
+>>>>>>> second_branch
